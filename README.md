@@ -43,8 +43,7 @@ Installs mariadb on the managed Linux systems and verifies the service status.
 - Ansible PLAY RECAP showed successful execution with failed=0.
 
 ## Documentation
-
-Screenshots of the project execution and verification are stored in the documentation/screenshots directory.
+The project documentation is available as a PDF in this repository.
 
 
 ## Conclusion
