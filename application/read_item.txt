@@ -1,0 +1,7 @@
+VIEW ITEM
+
+1.Search by Item ID or Item Name.
+2.Display Item ID.
+3.Display Item Name.
+4.Display Quantity.
+5.Display price.

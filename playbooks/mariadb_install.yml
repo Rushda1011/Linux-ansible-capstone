@@ -1,0 +1,22 @@
+- name: Install MariaDB
+  hosts: all
+  become: yes
+  tasks: 
+    - name: Install  MariaDB Server
+      dnf:
+        name: mariadb-server
+        state: present
+          
+    - name: Start MariaDB Service
+      service:
+         name: mariadb
+         state: started
+         enabled: yes 
+
+    - name: Check MariaDB Status
+      command: systemctl is-active mariadb
+      register: mariadb_status
+
+    - name: Display MariaDB Status
+      debug:
+         var: mariadb_status.stdout      

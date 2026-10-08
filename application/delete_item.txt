@@ -1,0 +1,5 @@
+DELETE ITEM
+
+1.Select Item ID.
+2.Confirm Deletion.
+3.Remove the item from the inventory.

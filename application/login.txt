@@ -1,0 +1,9 @@
+====LOGIN====
+
+Username: admin
+Password:*****
+
+Login Sucessful.
+
+Welcome to the Inventory Management System.:
+

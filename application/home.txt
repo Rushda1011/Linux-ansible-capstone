@@ -1,0 +1,12 @@
+INVENTORY MANAGEMENT SYSTEM
+
+
+=======MAIN MENU============
+
+1.Create Item
+2.View Item
+3.Update Item
+4.Delete Item
+5. Exit
+
+Select an option to perform the required operation...

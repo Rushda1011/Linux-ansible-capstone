@@ -1,0 +1,7 @@
+CREATE ITEM
+
+1. Enter Item ID
+2.Enter Item Name
+3.Enter Quantity
+4.Enter Price
+5.Save the Item in the inventory.

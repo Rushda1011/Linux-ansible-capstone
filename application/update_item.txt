@@ -1,0 +1,5 @@
+UPDATE ITEM
+
+1.Select an existing item.
+2.Modify Quantity or Price.
+3.Save the updated information.

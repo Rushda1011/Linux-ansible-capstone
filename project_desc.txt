@@ -1,0 +1,3 @@
+Inventory Management System...
+
+This project automates the installation of Python and MariaDB using Ansible. Python is used for application development, and MariaDB is used as the database server.The project demonstrates automated software deployment and service management on multiple linux servers.
